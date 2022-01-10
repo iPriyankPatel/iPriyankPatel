@@ -5,6 +5,7 @@
 - 📥 Ask me about Flutter or any networking-related stuff.
 - 📫 How to reach me ...
 - 😀 Pronounce: He/His
+- 💻 Languages and Tools: Flutter, Dart, HTML, PHP
 
 <!---
 iPriyankPatel/iPriyankPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
