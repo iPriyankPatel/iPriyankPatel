@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @iPriyankPatel
-- 👀 I’m interested in Flutter projects
-- 🌱 I’m currently learning Flutter App Development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Technologies and Frameworks
 - 💞️ I’m looking to collaborate on ...
-- 📥 Ask me about Flutter or any networking-related stuff.
-- 📫 How to reach me ...
+- 📥 Ask me about Developer or any networking-related stuff.
+- 📫 How to reach me https://www.linkedin.com/in/priyank-p6/
 - 😀 Pronounce: He/His
-- 💻 Languages and Tools: Flutter, Dart, HTML, PHP
+- 💻 Languages and Tools: HTML, CSS, PHP, WordPress
 
 <!---
 iPriyankPatel/iPriyankPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
