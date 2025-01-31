@@ -5,7 +5,7 @@
 - 📥 Ask me about Developer or any networking-related stuff.
 - 📫 How to reach me https://www.linkedin.com/in/priyank-devops-engineer/
 - 😀 Pronounce: He/His
-- 💻 Languages and Tools: HTML, CSS, PHP, WordPress
+- 💻 Languages and Tools: JavaScript, Bash, Linux, Docker, Kubernetes, CI/CD Pipelines, AWS, Jenkins, Serverless, Terraform
 
 <!---
 iPriyankPatel/iPriyankPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
