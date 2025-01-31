@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @iPriyankPatel
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Web Technologies and Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📥 Ask me about Developer or any networking-related stuff.
-- 📫 How to reach me https://www.linkedin.com/in/priyank-p6/
+- 📫 How to reach me https://www.linkedin.com/in/priyank-devops-engineer/
 - 😀 Pronounce: He/His
 - 💻 Languages and Tools: HTML, CSS, PHP, WordPress
 
